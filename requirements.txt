@@ -1,0 +1,58 @@
+streamlit
+requests
+beautifulsoup4
+spacy
+python-dotenv
+google-generativeai
+python-docx
+PyPDF2
+weasyprint
+fpdf
+langdetect
+easyocr
+pymupdf
+pdf2image
+streamlit-webrtc
+av
+pyarrow
+seaborn
+soundfile
+streamlit-extras
+flask_cors
+razorpay
+stripe
+bcrypt
+streamlit_extras
+reportlab
+streamlit-oauth
+jinja2
+weasyprint
+# python-poppler
+# poppler-utils
+gunicorn
+streamlit-mic-recorder
+SpeechRecognition 
+pocketsphinx 
+pyttsx3
+pyaudio
+streamlit-autorefresh
+streamlit-card
+pydub
+# python -m spacy download en_core_web_sm
+# for pymupdf to work properly, you may need to install additional system dependencies:
+# sudo apt update
+# sudo apt install libpango-1.0-0 libpango1.0-dev
+# streamlit run landing.py
+
+
+# python -m spacy download en_core_web_sm
+# for pymupdf to work properly, you may need to install additional system dependencies:
+# sudo apt update
+# sudo apt install libpango-1.0-0 libpango1.0-dev
+
+# https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer
+# https://github.com/oschwartz10612/poppler-windows/releases/tag/v24.08.0-0
+
+
+# pip install -r requirements.txt --upgrade --force-reinstall
+# pip install -r requirements.txt --no-cache-dir
