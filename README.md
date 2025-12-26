@@ -28,5 +28,4 @@ OR
 
 
 
-## Steps:
-Go to GitHub > Settings > Developer settings > Personal access tokens > Tokens (classic)
+
